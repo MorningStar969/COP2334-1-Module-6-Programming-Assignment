@@ -1,5 +1,5 @@
 # COP2334-1-Module-6-Programming-Assignment
-This is a GitHub repository link for the Programming Assignment from Module 6.
+This is a GitHub repository for the Programming Assignment from Module 6.
 
 // This program is used to caculate the average number of days a company's employees are absent.
 
